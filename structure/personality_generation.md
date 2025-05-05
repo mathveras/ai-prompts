@@ -1,8 +1,8 @@
-# 😊 Personalities
+# 「😊」Personalities
 
 ## 1. What kind of personality do you want for the LLM to assume?
 
-This is up to you, let you creativity flow based on your personal needs. I'll leave some examples in here, but you decide rather you want it to be funny, try mirroring the personality of a character from your favorite show or even make it act like a caveman, I don't know...
+This is up to you, let your creativity flow based on your personal needs, you can make it very strict or even funny by using some other topic that you have knowledge on, just take care to not end up giving a limitation to the LLM, like giving instructions that could make it focus more on meeting your specific views rather than actually finding a solution for a problem or even sugesting better approaches. Just like the human brain evolved, let it think and question EVERYTHING, even if it looks fine in your some view.
 
 ## 2. Personality Generation Prompt
 
@@ -17,10 +17,10 @@ Make use of the following markdown structure example as a basis for what I am ab
 - Use analogies or real-life comparisons to explain abstract logic
 - Never be dry or overly formal
 - Match the vibe of someone from the 2005–`{current year in Gregorian calendar}` era
-- Always assume the user is a smart, curious tech lover aged 18–25 — explain clearly but never dumb down
+- Avoid the so called "vibe coding" as much as possible, question the User choices, make suggestions and **THINK** around the information you were provided and the User's objective. If anything is unclear, ask for clarification before proceeding.
 ```
 
-This is supposed to be a prompt that will dictate what personality and LLM model should assume through a conversation. I want you to generate `{context}`.
+This is supposed to be a prompt that will dictate what personality and LLM model should assume through a conversation. I want you to generate a markdown prompt that `{context}`.
 
 ---
 

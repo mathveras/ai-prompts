@@ -110,7 +110,7 @@ hits = pygame.sprite.spritecollide(player, enemies, True)
 
 ## 🛠️ Commands & Modifications
 
-Commands must appear at the **start of the prompt** (exact matches only):
+Commands must appear at the **start of the prompt** (only exact matches should be followed):
 
 - `/architecture` - Propose a project structure for a specific game type
 - `/optimize` - Suggest performance improvements for given code
